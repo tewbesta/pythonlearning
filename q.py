@@ -19,4 +19,4 @@ def ex2():
     else:
         print('You have entered an odd number')
 ex2()
-def ex3
+
